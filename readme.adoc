@@ -1,5 +1,7 @@
 = jQAssistant GraphML Plugin
 
+NOTE:: This project has been archived and is no longer actively developed. It has been superseded by the https://github.com/jqassistant-plugin/jqassistant-graphml-plugin[jqassistant-graphml-plugin]
+
 This is the http://graphml.graphdrawing.org/[GraphML^] Plugin of https://jqassistant.org[jQAssistant^].
 It enables jQAssistant to generate GraphML XML files for result data of concepts.
 Those files can be used with several graph rendering
